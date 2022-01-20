@@ -1,0 +1,54 @@
+<style >
+body {
+    background-image: url("https://klv-oboi.kz/img/gallery/98/thumbs/thumb_m_psh_00001454.jpg");
+    border: 5px double darkred;
+    padding: 14px;
+}
+
+h1 {
+    background-color: LightCoral;
+    font-familty: Arial;
+    color: darkred;
+    font-size: 500%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+h2 {
+    background-color: Lavenderblush;
+    color: RosyBrown;
+    font-size: 250%;
+    border-left: 4px solid RosyBrown;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+div {
+    background-color: Lavenderblush;
+    color: RosyBrown;
+    font-size: 250%;
+    border-left: 4px solid RosyBrown;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+img {
+    width: 500px;
+    height: 350px;
+}
+
+</style >
+<body >
+<h1 > My top 5 cat breeds </h1 >
+<h2 > Abyssinian cat </h2 >
+style = "position:relative; left:550px; top:100px; width:800px;" >
+style = "position:relative; top:-300px; " >
+style = "position:relative; top:150px;" >
+style = "position:relative; left:550px; top:-200px; width:800px" > 
+style = "position:relative; top:150px;" >
+style = "position:relative; left:550px; top:-200px; width:800px" > 
+"style = "position:relative; top:150px;" >
+style = "position:relative; left:550px; top:-200px; width:800px" > 
+style = "position:relative; top:150px;" >
+style = "position:relative; left:550px; top:-200px; width:800px" > 
+</body >
